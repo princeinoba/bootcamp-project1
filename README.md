@@ -1,2 +1,2 @@
-# bootcamp-project1
-bootcamp-project1
+# Project 1
+ First project. 
